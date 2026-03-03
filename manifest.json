@@ -1,6 +1,6 @@
 {
-    "name": "silliman_ticketing",
-    "short_name": "silliman_ticketing",
+    "name": "Service Desk Portal",
+    "short_name": "Service Desk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
